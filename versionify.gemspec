@@ -7,7 +7,7 @@ $LOAD_PATH.unshift( lib_dir )
 
 spec = Gem::Specification.new { |s|
 	s.name         = 'versionify'
-	s.version      = '0.1'
+	s.version      = '0.1.1'
 	s.summary      = "Parser for version strings."
 	s.description  = "Parser for version strings such as \"1.2.3\"."
 	s.author       = "Philipp Kempgen"
